@@ -1,0 +1,6 @@
+Ali,85.5
+Budi,58.0
+Cici,92.0
+Dodo,60.0
+Eka,105.0
+Fani,74.5
